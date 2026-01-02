@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://onlajn-kolledzhi-psihologiya.vercel.app/sitemap.xml
+Sitemap: https://online-kolledzhi-psihologiya.vercel.app/sitemap.xml
